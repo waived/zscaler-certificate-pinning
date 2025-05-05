@@ -1,1 +1,4 @@
 https://www.salesforce.com/products/what-is-salesforce/
+
+Zulu JDK (dependency for Salesforce):
+https://www.azul.com/downloads/?package=jdk#zulu

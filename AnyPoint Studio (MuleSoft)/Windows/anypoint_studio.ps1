@@ -40,7 +40,7 @@ $AnyPoint = Select-FolderDialog
 # select der certificate
 Write-Host "Please select your DER certificate. Strike ENTER to select..."
 Read-Host
-$cert = Select-FileDialog -filter "DER files (*.*)|*.*"
+$cert = Select-FileDialog -filter "DER files (*.der)|*.der"
 
 # search for keytool.exe command instance
 $keytool = Get-ChildItem -Path $AnyPoint -Recurse -Filter "keytool.exe" -ErrorAction SilentlyContinue | Select-Object -First 1

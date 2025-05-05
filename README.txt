@@ -25,12 +25,6 @@
                                     .                
 
 
-                This is an on-going project.
-
-
-
-
-
 References:
 https://help.zscaler.com/zia/adding-custom-certificate-application-specific-trust-store
 https://www.ssl.com/blogs/what-is-certificate-pinning/

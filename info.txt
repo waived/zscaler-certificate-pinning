@@ -1,0 +1,1 @@
+Metho is also compatible for Boto AWS SDK 2.5>

@@ -31,5 +31,5 @@
 
 
 
-Refereces:
+References:
 https://help.zscaler.com/zia/adding-custom-certificate-application-specific-trust-store

@@ -33,3 +33,5 @@ Third-Party:
     Maven =>
         https://repo.maven.apache.org/maven2 (/*)
         https://repo1.maven.org/maven2 (/*)
+
+https://help.salesforce.com/s/articleView?id=001119925&type=1

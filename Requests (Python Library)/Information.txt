@@ -1,0 +1,4 @@
+When routing HTTP connection over the internet with the Zscaler client-connector enabled, the end-user will end up getting
+SSL Handshake and/or Dropped SSL handshake errors unless the Zscaler Root CA Certificate is pinned.
+
+https://pypi.org/project/requests/

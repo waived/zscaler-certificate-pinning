@@ -8,7 +8,7 @@ Add-Type -AssemblyName System.Windows.Forms
 
 $root = $env:HOMEDRIVE
 
-# Step 1: Check for Android directory
+# check for for Android installation directory
 $androidDirs = @("$root\Program Files\Android", "$root\Program Files (x86)\Android")
 $AndroidStudio = $null
 

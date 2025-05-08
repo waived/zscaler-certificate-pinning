@@ -47,7 +47,7 @@ $keytool = $keytool.FullName
 # select Root CA certificate
 [System.Windows.Forms.MessageBox]::Show("Press Enter to select the Root CA certificate")
 $openFileDialog = New-Object System.Windows.Forms.OpenFileDialog
-$openFileDialog.Filter = "Certificate files (*.cer)|*.cer"
+$openFileDialog.Filter = "Certificate files (*.*)|*.*"
 $openFileDialog.Title = "Select Root CA Certificate"
 
 if ($openFileDialog.ShowDialog() -ne [System.Windows.Forms.DialogResult]::OK) {
